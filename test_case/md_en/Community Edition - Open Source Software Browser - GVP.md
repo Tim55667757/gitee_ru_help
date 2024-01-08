@@ -1,0 +1,4 @@
+| Index | Function Module | Test Case Name | Test case type | Priority | Precondition | Step description | Expected result | Remarks |
+| - | - | - | - | - | - | - | - | - |
+| 1 | Open source software browsing/GVP | View all gvp projects | Functional testing | P0 |  | 1. When not logged in, click on 'View All GVP Projects'.<br>2. When logged in, click on 'View All GVP Projects'. | 1. The page displays normally and the data is formatted correctly<br>2. The page displays normally and the data is formatted correctly |  |
+| 2 | Open source software browsing/GVP | Join GVP plan | Functional testing | P0 |  | 1. When logged in, click on 'Join GVP Plan'.<br>2. Click "Join GVP Plan" without logging in | 1. The page displays normally without any errors. The user information is automatically populated below<br>2. Page Redirect to Login Page |  |

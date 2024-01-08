@@ -1,0 +1,3 @@
+| Index | Function Module | Test Case Name | Test case type | Priority | Precondition | Step description | Expected result | Remarks |
+| - | - | - | - | - | - | - | - | - |
+| 1 | Repository Settings/Read-only File Management | Repository Settings - Free repositories cannot enable/disable the [Read-only Function] and [Force Push] switches | Functional testing | P1 | 1. Personal free repository<br>2. Access as an administrator or higher | 1. Click [Disable forced push]<br>2. Click on 'Enable Read-only Function for Files/Directories' | 1. The button in disabled state cannot be clicked to select<br>2. null |  |
